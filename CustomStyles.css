@@ -1,0 +1,25 @@
+body{
+    background-image: url("photo8.jpg");
+    min-height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}	
+
+.table-responsive {
+    background-color: transparent;
+}
+
+th, td {
+    overflow: hidden; 
+    text-align: center;
+    vertical-align: middle;
+}
+
+
+
+
+
+
+
